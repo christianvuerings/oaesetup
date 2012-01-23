@@ -1,0 +1,8 @@
+$(function(){
+    $("body").addClass("loaded");
+})
+
+
+
+
+
